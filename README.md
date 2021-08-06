@@ -19,6 +19,8 @@ The user simply needs to execute the `main.py` module (*Python3.7*). The
    install -r requirements.txt` would install the one and only dependency.
  
 #### Public access:
-In order to make the 
+In order to make the tool available to a broader audience, a Github repo was
+ created including all the necessary files.
+
 #####  Author: Konstantinos Liosis
 
